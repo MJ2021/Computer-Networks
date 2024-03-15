@@ -1,1 +1,2 @@
 # Computer-Networks
+Proficient in using Wireshark to inspect network traces, extract critical information including IP addresses and MAC addresses, analyze connection details, and provide insights into network activity. Performed in-depth network traffic analysis for the Zoom conferencing application, utilizing packet tracing techniques to discern server addresses, bandwidth requirements, and the protocols engaged.
